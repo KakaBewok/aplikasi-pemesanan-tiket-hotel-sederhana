@@ -34,7 +34,7 @@
         <br/>
         <h3>DATA PEMESANAN TIKET HOTEL</h3>   
         <br/>
-        <form action="rizal.php" method="post" style='border: 2px solid black; padding: 10px; border-radius: 7px'>
+        <form action="index.php" method="post" style='border: 2px solid black; padding: 10px; border-radius: 7px'>
             <div class="row">
                 <div class="col-lg-2"><label for="cekIn">Tanggal Check In   :</label></div>
                 <div class="col-lg-2"><input type="date" id="cekIn" name="cekIn"/>
